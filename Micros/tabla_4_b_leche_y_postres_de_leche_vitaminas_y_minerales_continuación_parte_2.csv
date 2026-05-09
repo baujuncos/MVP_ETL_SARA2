@@ -1,0 +1,28 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+Alimento,Cenizas,Sodio,Potasio,Calcio,Cobre,Fosforo,Hierro,Magnesio,Zinc,Niacina,Folato EFD,Ácido fólico,"Vitamina A, 
+RAE",Retinol,Tiamina,Riboflavina,Vitamina B-12,Vitamina C,Vitamin D
+,g,mg,mg,mg,mg,mg,mg,mg,mg,mg,µg,µg,µg,µg,mg,mg,mg,mg,µg
+"Leche entera fluida, con azúcar, lista 
+para consumir","0,66",57,137,123,"0,025",95,"0,07",10,"0,3","0,09",18,13,64,64,"0,046","0,169","0,45","7,1","1,0"
+"Leche entera fluida, con CLA, fortifi-
+cada con vitaminas A y D",,50,137,121,"0,025",95,"0,07",10,"0,3","0,09",5,0,75,75,"0,046","0,169","0,45",0,"0,65"
+"Leche entera fluida, con vitaminas 
+A y D","0,66",57,137,123,"0,025",95,"0,07",10,"0,3","0,09",5,0,70,70,"0,046","0,169","0,45",0,"0,75"
+"Leche entera fluida, deslactosada, 
+fortificada con vitaminas A y D","0,66",57,137,123,"0,025",95,"0,07",10,"0,3","0,09",5,0,64,64,"0,046","0,169","0,45",0,"1,0"
+"Leche entera fluida, fortificada con 
+vitaminas A, D y B9","0,66",57,137,123,"0,025",95,"0,07",10,"0,3","0,09",5,0,64,64,"0,046","0,169","0,45",0,"0,75"
+"Leche entera fluida, fortificada con 
+vitaminas A, D, C, B9 y extra calcio","0,66",57,137,140,"0,025",95,"0,07",10,"0,3","0,09",5,0,75,75,"0,046","0,169","0,45","7,0","0,75"
+"Leche entera fluida, sin fortificación","0,66",57,137,123,"0,025",95,"0,07",10,"0,3","0,09",5,0,28,27,"0,046","0,169","0,45",0,"0,08"
+"Leche fórmula 0-12 meses, hi-
+poalergénica, tipo Nutrilón HA, NAN 
+HA, en polvo",,150,598,390,"0,294",191,"3,90",39,"3,7","6,40",112,66,388,388,"0,370","0,730","1,30","67,0","9,4"
+"Leche fórmula 0-12 meses, sin lac-
+tosa, en polvo",,158,549,372,"0,349",216,"6,40",42,"4,7","4,10",129,76,504,504,"0,410","0,670","1,23","87,3","8,2"
+"Leche fórmula antireflujo, en polvo",,198,555,420,"0,39",299,"5,40",47,"4,9","4,60",129,76,467,467,"0,430","0,910","1,40","94,0","7,6"
+"Leche fórmula etapa 3, en polvo",,233,700,744,"0,303",409,"7,90",51,"5,2","2,90",162,95,514,514,"0,580","1,100","1,80","79,8","10,9"
+"Leche fórmula etapa 3, fluida",0,34,102,109,"0,044",60,"1,15",7,"0,8","0,42",24,14,75,75,"0,085","0,161","0,26","11,7","1,59"
+"Leche fórmula etapa 3, sin lactosa, 
+en polvo",,342,138,942,"0,01",561,"6,15",11,"5,4","0,09",127,51,457,457,"0,030","0,185","1,90","38,5","3,5"
+"Leche fórmula etapa 4, en polvo",,176,676,644,"0,133",478,"9,15",43,"7,2","3,10",173,102,444,444,"0,470","1,050","1,60","82,0","8,7"
